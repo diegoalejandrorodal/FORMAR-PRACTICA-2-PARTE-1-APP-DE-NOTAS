@@ -1,4 +1,4 @@
-# FORMAR-PROYECTO-2-PARTE-1-APP-DE-NOTAS
+# FORMAR-PRACTICA-2-PARTE-1-APP-DE-NOTAS
 ## Objetivo
 Vamos a armar una app de tareas que nos permita guardar notas cortas utilizando las
 herramientas que hasta el momento hemos aprendido.
